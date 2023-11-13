@@ -1,0 +1,8 @@
+lat/bottak/twa/BuildConfig.java
+ lat.bottak.twa.BuildConfig
+lat/bottak/twa/Application.java
+ lat.bottak.twa.Application
+lat/bottak/twa/LauncherActivity.java
+ lat.bottak.twa.LauncherActivity
+lat/bottak/twa/DelegationService.java
+ lat.bottak.twa.DelegationService
